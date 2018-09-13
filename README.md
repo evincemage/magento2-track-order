@@ -39,7 +39,7 @@ Frontend
 	Email:- testtesting058@gmail.com
 
 ## Support
-If you find any issues with plugin or or need the installation support, please contact support@evincemage.com
+If you find any issues with plugin or need the installation support, please contact support@evincemage.com
 
 ## Copyright and License
 COPYRIGHT © 2012-2018. ALL RIGHTS RESERVED - EVINCE DEVELOPMENT
