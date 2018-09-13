@@ -24,7 +24,7 @@ https://evincemage.com/magento2-extension-installation-guilde.pdf
 
 ## Troubleshooting
 #### 404 Access Denied
-If you see a 404 or access denied message when trying to view the WhatsApp Product Share setup screen within Magento, you need to log out and back into your Magento admin panel.
+If you see a 404 or access denied message when trying to view the Track Order setup screen within Magento, you need to log out and back into your Magento admin panel.
 
 
 ## Useful links
